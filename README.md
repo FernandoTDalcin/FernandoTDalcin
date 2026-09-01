@@ -5,9 +5,9 @@ Entusiasta de Defesa Cibernética em transição de carreira, com foco em opera�
 ---
 
 ### 🚀 Objetivo Profissional
-Estou em busca de uma oportunidade como **Analista de SOC Júnior ou Estagiário em Cibersegurança**, onde possa aplicar minha disciplina, maturidade profissional e os conhecimentos técnicos que venho consolidando diariamente através de laboratórios práticos e formação acadêmica.
+Estou em busca de uma oportunidade como **Analista de SOC Júnior**, onde possa aplicar minha disciplina, maturidade profissional e os conhecimentos técnicos que venho consolidando diariamente através de laboratórios práticos e formação acadêmica.
 
-### 💻 Technical Skills (Em Evolução)
+### 💻 Technical Skills
 
 | Domínio | Competências em Estudo |
 | :--- | :--- |
@@ -27,25 +27,9 @@ Estou em busca de uma oportunidade como **Analista de SOC Júnior ou Estagiário
 
 ---
 
-### 🧪 Laboratórios Práticos (Aprendizado Contínuo)
-
-*   **TryHackMe:** 2 anos de acesso dedicado ao treinamento diário em identificação de ameaças e técnicas de resposta a incidentes.
-*   **Windows & Linux CLI:** Prática constante em automação e navegação via terminal para análise de sistemas.
-*   **AD Labs:** Estudos voltados à compreensão de privilégios e segurança em diretórios Windows.
-
----
-
-### 🛠️ Tecnologias
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A6?style=flat-square&logo=wireshark&logoColor=white)
-
----
 
 ### 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandotdalcin)
 
 
-> "Comprometido com o aprendizado contínuo e a segurança da continuidade operacional."
+
