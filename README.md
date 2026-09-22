@@ -1,117 +1,107 @@
-# 🛡️ Fernando Tramontina Dalcin
+🛡️ Fernando Tramontina Dalcin
+Cybersecurity | SOC | Blue Team | Threat Detection
 
-### Cybersecurity | SOC | Blue Team | Threat Detection
+Estudante de Cybersecurity com foco em SOC, Blue Team, Threat Detection e Incident Response.
 
-Estudante de Cybersecurity com foco em **SOC, Blue Team, Threat Detection e Incident Response**.
-
-Meu objetivo com este portfólio é documentar minha evolução através de **laboratórios práticos e investigações de segurança**, reproduzindo cenários próximos aos encontrados em operações de SOC.
+Meu objetivo com este portfólio é documentar minha evolução através de laboratórios práticos e investigações de segurança, reproduzindo cenários próximos aos encontrados em operações de SOC.
 
 Atualmente estou aprofundando conhecimentos em:
 
-* 🔎 SOC Operations
-* 📊 SIEM & Log Analysis
-* 🛡️ Blue Team
-* 🎯 Threat Hunting
-* 🧩 MITRE ATT&CK
-* 🌐 Network Security
-* 🪟 Windows Security
-* 🐧 Linux Security
-* ⚡ PowerShell & Bash
-* 🚨 Incident Response
+🔎 SOC Operations
+📊 SIEM & Log Analysis
+🛡️ Blue Team
+🎯 Threat Hunting
+🧩 MITRE ATT&CK
+🌐 Network Security
+🪟 Windows Security
+🐧 Linux Security
+⚡ PowerShell & Bash
+🚨 Incident Response
+🔬 Portfólio
+📊 SIEM & Log Analysis
 
----
-
-## 🔬 Portfólio
-
-### 📊 SIEM & Log Analysis
-
-**[VPN Brute Force Investigation — Splunk](./thm-Splunk101-writeup)**
+VPN Brute Force Investigation — Splunk
 
 Investigação de logs de autenticação VPN utilizando Splunk/SPL.
 
-**Práticas demonstradas:**
+Práticas demonstradas:
 
-* Log ingestion
-* SPL
-* Authentication analysis
-* Brute-force detection
-* IP correlation
-* Timeline analysis
-* Investigation of suspicious authentication
-* False-positive analysis
+Log ingestion
+SPL
+Authentication analysis
+Brute-force detection
+IP correlation
+Timeline analysis
+Investigation of suspicious authentication
+False-positive analysis
+🌐 Network Security
 
----
-
-### 🌐 Network Security
-
-**[Blue — EternalBlue / MS17-010](./thm-blue-writeup)**
+Blue — EternalBlue / MS17-010
 
 Análise de reconhecimento de rede e identificação de uma vulnerabilidade crítica em SMB.
 
-**Práticas demonstradas:**
+Práticas demonstradas:
 
-* Nmap
-* Service enumeration
-* SMB analysis
-* Vulnerability identification
-* Attack surface analysis
-* Blue Team perspective
-* Defensive recommendations
+Nmap
+Service enumeration
+SMB analysis
+Vulnerability identification
+Attack surface analysis
+Blue Team perspective
+Defensive recommendations
 
----
+Incident Response — Network Traffic Investigation
 
-### 🐧 Linux Security
+Análise forense de uma captura de pacotes (Wireshark/tshark) reconstruindo, do início ao fim, um ataque de upload malicioso seguido de reverse shell contra um servidor de produção.
 
-**[Linux System Monitoring](./Monitoramento-Linux)**
+Práticas demonstradas:
+
+Wireshark
+tshark
+Protocol hierarchy analysis
+TCP conversation analysis
+HTTP stream reconstruction
+Malicious file upload identification
+Reverse shell detection
+Attack timeline reconstruction
+🐧 Linux Security
+
+Linux System Monitoring
 
 Script em Shell Script para monitoramento e automação de sistemas Linux.
 
-**Conceitos:**
+Conceitos:
 
-* Linux CLI
-* Bash
-* System monitoring
-* Automation
-* Resource analysis
-
----
-
-## 🚧 Laboratórios em desenvolvimento
-
-### Elastic SOC Lab
+Linux CLI
+Bash
+System monitoring
+Automation
+Resource analysis
+🚧 Laboratórios em desenvolvimento
+Elastic SOC Lab
 
 Laboratório de SOC utilizando Elastic para centralização de logs, investigação e criação de detecções.
 
 Planejado:
 
-* Windows Event Logs
-* Sysmon
-* Elastic Agent
-* KQL
-* Detection Rules
-* Alert Investigation
-* MITRE ATT&CK Mapping
-* Threat Hunting
-
-### Windows Threat Hunting
+Windows Event Logs
+Sysmon
+KQL
+Detection Rules
+Alert Investigation
+MITRE ATT&CK Mapping
+Threat Hunting
+Windows Threat Hunting
 
 Investigação de atividades suspeitas em endpoints Windows utilizando Event Logs e Sysmon.
 
-### Network Traffic Investigation
-
-Análise de tráfego utilizando PCAP, Wireshark e TShark.
-
-### Phishing Investigation
+Phishing Investigation
 
 Análise de e-mails suspeitos, headers, URLs, domínios e indicadores de comprometimento.
 
----
-
-## 🧰 Ferramentas
-
-```text
+🧰 Ferramentas
+text
 SIEM
-├── Elastic
 └── Splunk
 
 Network
@@ -132,23 +122,17 @@ Security
 Scripting
 ├── PowerShell
 └── Bash
-```
+🎯 Objetivo profissional
 
----
-
-## 🎯 Objetivo profissional
-
-Estou buscando minha primeira oportunidade como **Analista de SOC Júnior / Blue Team**, com foco em monitoramento, investigação, detecção e resposta a incidentes.
+Estou buscando minha primeira oportunidade como Analista de SOC Júnior / Blue Team, com foco em monitoramento, investigação, detecção e resposta a incidentes.
 
 Meu objetivo é transformar conhecimento teórico em experiência prática através da construção contínua de laboratórios, investigações e projetos de segurança.
 
----
-
-## 📚 Metodologia
+📚 Metodologia
 
 Nos meus laboratórios, procuro seguir um fluxo próximo ao processo de investigação utilizado em operações de segurança:
 
-```text
+text
 Alert
   ↓
 Evidence Collection
@@ -166,13 +150,10 @@ Detection
 Response
   ↓
 Lessons Learned
-```
 
-Este repositório funciona como meu **diário técnico de evolução em Cybersecurity**.
+Este repositório funciona como meu diário técnico de evolução em Cybersecurity.
 
----
-
-## 📫 Contato
+📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/fernandotdalcin/)
 
